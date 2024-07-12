@@ -1,0 +1,14 @@
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/Analizador_Ventas.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/Analizador_Ventas.AssemblyInfoInputs.cache
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/Analizador_Ventas.AssemblyInfo.cs
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/Analizador_Ventas.csproj.CoreCompileInputs.cache
+/home/riwip5-006/SIMON77/Analizador_Ventas/bin/Debug/net8.0/Analizador_Ventas
+/home/riwip5-006/SIMON77/Analizador_Ventas/bin/Debug/net8.0/Analizador_Ventas.deps.json
+/home/riwip5-006/SIMON77/Analizador_Ventas/bin/Debug/net8.0/Analizador_Ventas.runtimeconfig.json
+/home/riwip5-006/SIMON77/Analizador_Ventas/bin/Debug/net8.0/Analizador_Ventas.dll
+/home/riwip5-006/SIMON77/Analizador_Ventas/bin/Debug/net8.0/Analizador_Ventas.pdb
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/Analizador_Ventas.dll
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/refint/Analizador_Ventas.dll
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/Analizador_Ventas.pdb
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/Analizador_Ventas.genruntimeconfig.cache
+/home/riwip5-006/SIMON77/Analizador_Ventas/obj/Debug/net8.0/ref/Analizador_Ventas.dll
